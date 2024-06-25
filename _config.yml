@@ -27,7 +27,7 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Real Rael Obsidian Vault # Change this 
+heading: Real Rael Vault # Change this 
 content: Raelian Obsidian Vault
 copyright:  
   year: © 2024
