@@ -1,1 +1,0 @@
-A shadowy figure who has counseled numerous Links. An expert assassin whom most governments owe a favor or two. Last seen at the Grand Summit on the day of [[The Fall]]. Unconfirmed whether he survived or is somewhere dead in the rubble of [[Old Iox]].
