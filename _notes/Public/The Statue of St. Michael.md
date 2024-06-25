@@ -1,3 +1,10 @@
+---
+title: statuestmichael
+feed: show
+date: 6-25-2024
+permalink: /statuestmichael
+---
+
 The Statue of St. Michael depicts a burly man in his 40’s. Broad shoulders, a pudgy smiling face, and arms and hands as big as a grizzly, the statue is posed with his arms outstretched and smiling, as if welcoming any and all in for a bear hug. 
 
 A small plaque tells Michael’s story:

@@ -1,3 +1,10 @@
+---
+title: Air Nation
+feed: show
+date: 6-25-2024
+permalink: /airnation
+---
+
 The Air Nation was a great power on The Continent.
 It had one capital metropolis, [[The City of Iox]], the City in the Clouds.
 Iox was held aloft by ancient magics and only a scant few knew how it was stabilized miles above the ground.

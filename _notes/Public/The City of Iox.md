@@ -1,3 +1,10 @@
+---
+title: Iox
+feed: show
+date: 6-25-2024
+permalink: /iox
+---
+
 #Iox #AIartwork 
 
 ![[The_City_of_Iox.png]]
