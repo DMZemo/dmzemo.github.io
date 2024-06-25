@@ -1,3 +1,11 @@
+---
+title: The Talisman Campaign Summary
+feed: show
+date: 6-25-2024
+permalink: /thetalismancampaignsummary
+---
+
+
 #main #mainquest
 
 100 years after [[The Fall]].
