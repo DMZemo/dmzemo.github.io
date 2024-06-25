@@ -2,7 +2,6 @@
 title: Campaign
 feed: show
 date: 6-25-2024
-permalink: /campaign
 ---
 
 

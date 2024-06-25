@@ -2,7 +2,7 @@
 title: Old Iox
 feed: show
 date: 6-25-2024
-permalink: /oldiox
+permalink: /old-iox
 ---
 
 
