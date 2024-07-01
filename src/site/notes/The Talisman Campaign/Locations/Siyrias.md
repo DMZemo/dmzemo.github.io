@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/siyrias/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/siyrias/","noteIcon":""}
 ---
 
 #location #Water #Nation #elements

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/the-statue-of-st-michael/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/the-statue-of-st-michael/","noteIcon":""}
 ---
 
 #location #Iox #magic #history #TheFall #npc 

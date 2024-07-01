@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/old-iox/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/old-iox/","noteIcon":""}
 ---
 
 #history #location #Iox #Nation #Air 

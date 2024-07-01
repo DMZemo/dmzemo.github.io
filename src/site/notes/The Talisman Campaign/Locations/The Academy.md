@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/the-academy/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/the-academy/","noteIcon":""}
 ---
 
 #history #location #Iox #Air

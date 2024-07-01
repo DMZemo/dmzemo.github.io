@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/history/the-four-states-of-matter/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/history/the-four-states-of-matter/","noteIcon":""}
 ---
 
 #book #magic #elements

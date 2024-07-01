@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/the-talisman-campaign-summary/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/the-talisman-campaign-summary/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 #campaign #main #mainquest

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/illusion/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/illusion/","noteIcon":""}
 ---
 
 #spellschool #Illusion #magic 

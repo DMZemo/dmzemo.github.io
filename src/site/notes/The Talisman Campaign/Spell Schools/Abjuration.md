@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/abjuration/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/abjuration/","noteIcon":""}
 ---
 
 #spellschool #Abjuration #magic 

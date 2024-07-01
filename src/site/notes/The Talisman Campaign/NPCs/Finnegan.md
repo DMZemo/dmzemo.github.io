@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/np-cs/finnegan/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/np-cs/finnegan/","noteIcon":""}
 ---
 
 #npc

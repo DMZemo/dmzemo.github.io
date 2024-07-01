@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/np-cs/quaron/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/np-cs/quaron/","noteIcon":""}
 ---
 
 #npc #magic 

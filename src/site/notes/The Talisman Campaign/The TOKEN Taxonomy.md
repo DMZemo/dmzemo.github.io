@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/the-token-taxonomy/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/the-token-taxonomy/","noteIcon":""}
 ---
 
 ***Top***

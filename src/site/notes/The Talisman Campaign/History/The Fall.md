@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/history/the-fall/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/history/the-fall/","noteIcon":""}
 ---
 
 #event #Iox #TheFall 

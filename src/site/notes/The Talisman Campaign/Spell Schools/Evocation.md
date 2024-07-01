@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/evocation/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/evocation/","noteIcon":""}
 ---
 
 #spellschool #Evocation #magic 

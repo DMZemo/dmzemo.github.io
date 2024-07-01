@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/objects/skylight/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/objects/skylight/","noteIcon":""}
 ---
 
 #rare #object #Iox #invention

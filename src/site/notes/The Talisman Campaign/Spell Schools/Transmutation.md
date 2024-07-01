@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/transmutation/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/transmutation/","noteIcon":""}
 ---
 
 #spellschool #Transmutation #magic 

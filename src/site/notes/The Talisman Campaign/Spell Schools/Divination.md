@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/divination/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/divination/","noteIcon":""}
 ---
 
 #spellschool #Divination #magic 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/enchantment/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/enchantment/","noteIcon":""}
 ---
 
 #spellschool #Enchantment #magic 

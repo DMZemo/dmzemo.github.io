@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/conjuration/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/spell-schools/conjuration/","noteIcon":""}
 ---
 
 #spellschool #Conjuration #magic 

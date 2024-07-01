@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/the-city-of-iox/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/the-city-of-iox/","noteIcon":""}
 ---
 
 #history #location #Iox #Air #AIartwork 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/history/the-air-nation/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/history/the-air-nation/","noteIcon":""}
 ---
 
 #government #nation #elements #Link #Air 

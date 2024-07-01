@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/objects/steelglass/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/objects/steelglass/","noteIcon":""}
 ---
 
 #history #object #Iox #rare #masterwork #invention

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/ragathan-s-tower/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/ragathan-s-tower/","noteIcon":""}
 ---
 
 #location #history #Iox #magic #invention 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-talisman-campaign/np-cs/guntherglint-brindswallow-gemeyer/"}
+{"dg-publish":true,"permalink":"/the-talisman-campaign/np-cs/guntherglint-brindswallow-gemeyer/","noteIcon":""}
 ---
 
 #npc #history #gnome
