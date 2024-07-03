@@ -4,9 +4,12 @@
 
 #campaign #main #mainquest
 
+
 [[talisman_map.jpg]]
 
+
 100 years after [[The Talisman Campaign/History/The Fall\|The Fall]].
+
 
 A [[The Talisman Campaign/Objects/steelglass\|steelglass]] [[The Talisman Campaign/Objects/skylight\|skylight]] has opened up in the ruins of [[The Talisman Campaign/Locations/Old Iox\|Old Iox]], the old capital of [[The Talisman Campaign/History/The Air Nation\|The Air Nation]]. The opening has granted access below to the Library Tower of The Academy. None know how or why it opened now, 100 years and counting since the city became a buried ruin.
 
