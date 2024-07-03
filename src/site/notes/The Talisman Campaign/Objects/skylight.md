@@ -4,7 +4,9 @@
 
 rare #object #Iox #invention
 
-![[skylight art.PNG]]
+![skylight_art.png](/img/user/The%20Talisman%20Campaign/Objects/skylight_art.png)
+
+
 
 (Pictured Closed, an archaeological dig 20 years ago)
 
