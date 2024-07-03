@@ -4,8 +4,7 @@
 
 #campaign #main #mainquest
 
-![talisman_map.jpg](/img/user/The%20Talisman%20Campaign/talisman_map.jpg)
-
+[[talisman_map.jpg]]
 
 100 years after [[The Talisman Campaign/History/The Fall\|The Fall]].
 
