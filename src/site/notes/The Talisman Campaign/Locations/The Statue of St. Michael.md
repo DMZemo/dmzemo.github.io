@@ -3,8 +3,11 @@
 ---
 
 #location #Iox #magic #history #TheFall #npc 
+![statue_of_st_michael.png](/img/user/The%20Talisman%20Campaign/Locations/statue_of_st_michael.png)
 
-The Statue of St. Michael depicts a burly man in his 40’s. Broad shoulders, a pudgy smiling face, and arms and hands as big as a grizzly, the statue is posed with his arms outstretched and smiling, as if welcoming any and all in for a bear hug. 
+The Statue of St. Michael depicts a burly man in his 40’s. Broad shoulders, a pudgy smiling face, and arms and hands as big as a grizzly, the statue is posed with his arms outstretched and smiling, as if welcoming the three suns in for a bear hug. 
+The Statue is made of bioluminescent marble whose veins of grey glow faintly in the night air. It makes the statue appear to be lit by an overhead sun even in the dead of night.
+The Statue is fabled to be blessed by spirits, and no ghosts or undead haunt it’s surrounding area for 1 mile. 
 
 A small plaque tells Michael’s story:
 
@@ -18,6 +21,3 @@ A small plaque tells Michael’s story:
 *Ten years later he died in his sleep,* 
 *a truly missed hero.”*
 
-The Statue is made of bioluminescent marble whose veins of grey glow faintly in the night air. 
-
-The Statue is fabled to be blessed by spirits, and no ghosts or undead haunt it’s surrounding area for 1 mile. 
