@@ -13,6 +13,7 @@ The Immediate surrounding environs of New Iox.
 Each Hex is 24 miles, or 1 day normal pace on foot.
 
 ![New Iox Environs.png](/img/user/The%20Talisman%20Campaign/Locations/New%20Iox%20Environs.png)
+
 New Iox
 Woodgate 
 Northern Fort
