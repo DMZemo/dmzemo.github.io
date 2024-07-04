@@ -7,7 +7,7 @@
 # The Talisman Campaign
 ![talisman_map.jpg](/img/user/The%20Talisman%20Campaign/talisman_map.jpg)
 
-The Fryday, September 1st, 2650. Summer of 
+Fryday, September 1st, 2650. The 4th and final month of the Season of O'drahn (Summer).
 
 [[The Talisman Campaign/Locations/New Iox\|New Iox]] is putting out a quest bounty for Adventurers.
 [[The Talisman Campaign/Locations/Old Iox\|Old Iox]], the ruins of [[The Talisman Campaign/Locations/The City of Iox\|The City of Iox]], the old capital of [[The Talisman Campaign/History/The Air Nation\|The Air Nation]], has a new ruins entrance that just opened up.
