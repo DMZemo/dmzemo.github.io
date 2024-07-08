@@ -4,9 +4,10 @@
 
 #location #history #Iox #magic #invention 
 
-Ragathan was one of the earliest scholars when Iox first flew. He was foundational in setting up a revolutionary colon classification system for the libraries of Iox and he oversaw the construction of The Academy's Library Tower. It was named in his honor after his death. 
 
-Records have been able to found, miraculously, that show a rough sketch of the tower, a sketching by none other than [[Jakamin The Wandering Bard\|Jakamin The Wandering Bard]], and detail an elite tourists view of the entire tower, as Jakamin had access to ever floor. No security protocols or codes are put to pen, but Jakamin detailed 20 Levels of tower.
+[[The Talisman Campaign/NPCs/Ragathan\|Ragathan]]'s Tower.
+
+Records of the floorplans have resurfaced, given recent need of them. A rough sketching of every floor was penned by none other than [[Jakamin The Wandering Bard\|Jakamin The Wandering Bard]], and he detailed an elite tourists view of the entire tower, with his exclusive access to every floor. No security protocols or codes are put to pen, but Jakamin detailed 20 Levels of Ragathan's Tower.
 
 Floor: Name
 20th: Skydock
