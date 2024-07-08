@@ -21,6 +21,6 @@ The "hole" is the shaft of what has been identified as [[The Talisman Campaign/L
 
 
 Helpful Links
-[[Map of The Planet\|Map of The Planet]]
+[[Ra'el\|Ra'el]]
 [[The Guild Roster\|The Guild Roster]]
 
