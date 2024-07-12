@@ -23,10 +23,10 @@ Floor: Name
 10th: Restricted 1
 9th: Professional Offices
 8th: Assistant Offices
-7th: Hortonhall & Ergamort Classrooms 
-6th: Brindleswisher & Kikernumfkis Classrooms
-5th: Carter & Marshall Classrooms
-4th: Denvoxin & [[The Talisman Campaign/NPCs/Glory\|Glory]] Classrooms 
+7th: Hortonhall & Ergamort Classrooms (Level 4)
+6th: Brindleswisher & Kikernumfkis Classrooms (Level 3)
+5th: Carter & Marshall Classrooms (Level 2)
+4th: Denvoxin & [[The Talisman Campaign/NPCs/Glory\|Glory]] Classrooms (Level 1)
 3rd: Public Library Level 2
 2nd: Public Library Level 1
 1st: The Grand Hall of Naphae
