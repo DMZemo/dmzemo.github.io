@@ -13,9 +13,9 @@ Floor: Name
 20th: Skydock
 19th: Balcony
 18th: Security
-17th: Admin
-16th: Admin
-15th: Admin
+17th: Yellow Diamond Admin 
+16th: Ruby Admin
+15th: Sapphire Admin
 14th: Restricted 5
 13th: Restricted 4
 12th: Restricted 3 & Restricted Security
@@ -23,10 +23,10 @@ Floor: Name
 10th: Restricted 1
 9th: Professional Offices
 8th: Assistant Offices
-7th: Classrooms Level 4
-6th: Classrooms Level 3
-5th: Classrooms Level 2
-4th: Classrooms Level 1
+7th: Hortonhall & Ergamort Classrooms 
+6th: Brindleswisher & Kikernumfkis Classrooms
+5th: Carter & Marshall Classrooms
+4th: Denvoxin & [[The Talisman Campaign/NPCs/Glory\|Glory]] Classrooms 
 3rd: Public Library Level 2
 2nd: Public Library Level 1
 1st: The Grand Hall of Naphae
