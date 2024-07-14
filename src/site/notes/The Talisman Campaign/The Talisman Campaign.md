@@ -17,7 +17,7 @@ The opening has granted access to the Library Tower of [[The Talisman Campaign/L
 
 The skylight is inexplicably intact, with piles of stone and rubble all around it, and when the skylight opened, the powerful mechanisms within pushed open the skylight and displaced the debris and dirt on either side, exposing a newly accessible hole in the ground about 60 feet wide.
 
-The "hole" is the shaft of what has been identified as [[The Talisman Campaign/Locations/Ragathan's Tower\|Ragathan's Tower]], the Library Tower of [[The Talisman Campaign/Locations/The Academy\|The Academy]]. 
+The "hole" is the shaft of what has been identified as [[The Talisman Campaign/Locations/The Sunken Spire/Ragathan's Tower\|Ragathan's Tower]], the Library Tower of [[The Talisman Campaign/Locations/The Academy\|The Academy]]. 
 
 
 Helpful Links
