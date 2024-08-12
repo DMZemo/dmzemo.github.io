@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/the-talisman-campaign/locations/the-sunken-spire/levels-players/8th/","noteIcon":""}
----
-
-![8threstricted4.png](/img/user/The%20Talisman%20Campaign/Locations/The%20Sunken%20Spire/Levels%20(Players)/8threstricted4.png)
-
-Restricted Containment Level 4.
-Lesser Serious things are contained here. Cursed items. Texts on Necromancy. Weapons of fallen villains. One of which I had donated myself. That philanthropy had earned me this grand tour. Black Razor. A weapon I wrested from a traveler from another sphere. Wicked thing, none weak willed should even so much as touch it lest their mind be relinquished to the blade's wicked will and whims. I am glad it is safe within The Academy's care, locked inside a chest within the central Infernal vault. The vault was the result of [[The Talisman Campaign/NPCs/Ragathan\|Ragathan]] dealing with a devil. None know the details of the deal, for he died before [[The Talisman Campaign/Locations/The Sunken Spire/Ragathan's Tower\|Ragathan's Tower]] was completed and he never told a soul. So much to everyone's surprise, legends tell that a masked worker appeared when the tower was under construction and singlehandedly built every major vault within the restricted floors. The masked builder disappeared before the masons and carpenters could question them. Vanished in a puff of smoke, leaving behind a trail of ash that spelt in infernal "*Our debt to Ragathan is paid in full.*"
