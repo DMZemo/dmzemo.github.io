@@ -32,6 +32,7 @@ Green Wizard = NPC
 Blue Statue = Statue/Monolith
 
 
-![New Iox & The Ruins.png](/img/user/The%20Talisman%20Campaign/Locations/New%20Iox%20&%20The%20Ruins.png)
+![New Iox & Ruins.png](/img/user/The%20Talisman%20Campaign/Locations/New%20Iox%20&%20Ruins.png)
+
 
 
