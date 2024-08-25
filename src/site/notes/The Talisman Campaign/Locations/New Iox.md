@@ -36,3 +36,23 @@ Blue Statue = Statue/Monolith
 
 
 
+The Guild Contract #1
+
+![Matreous.png](/img/user/The%20Talisman%20Campaign/NPCs/Matreous.png)
+
+Escort Matreous to New Iox 
+Reward: 200 gold and a Scroll of Revivify 
+- Travel to Woodgate
+- Find Matreous
+- Bring Matreous to New Iox
+  
+**Travel Options**
+	5 Days Normal Pace
+	2.5 Days Fast Pace (No Short Rests, Disadvantage Stealth & Perception)
+	On Horseback 2.5 days (Disadvantage Stealth)
+	
+***General Store***: 
+	Rations: 1 Gold Piece for 3 Trail Rations
+	Simple Armor & Weapons: Market Prices
+	Health Potions: 25 GP for Healing Potion (2d4+2)
+	Horse Rental: 10 GP/Horse for 7 Days
