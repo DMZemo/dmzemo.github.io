@@ -43,7 +43,6 @@ The Guild Contract #1
 ![Matreous.png](/img/user/The%20Talisman%20Campaign/NPCs/Matreous.png)
 Matreous
 
-
 ![woodgate.png](/img/user/The%20Talisman%20Campaign/Locations/woodgate.png)
 Woodgate
 
