@@ -30,6 +30,8 @@ Grey Keys= Dungeons
 Black Skull = desecrated burial
 Green Wizard = NPC
 Blue Statue = Statue/Monolith
+Hindi Temple = The Sunken Spire
+
 
 
 ![New Iox & Ruins.png](/img/user/The%20Talisman%20Campaign/Locations/New%20Iox%20&%20Ruins.png)
@@ -39,6 +41,11 @@ Blue Statue = Statue/Monolith
 The Guild Contract #1
 
 ![Matreous.png](/img/user/The%20Talisman%20Campaign/NPCs/Matreous.png)
+Matreous
+
+
+![woodgate.png](/img/user/The%20Talisman%20Campaign/Locations/woodgate.png)
+Woodgate
 
 Escort Matreous to New Iox 
 Reward: 200 gold and a Scroll of Revivify 
