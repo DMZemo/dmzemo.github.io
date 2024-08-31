@@ -62,3 +62,7 @@ Reward: 200 gold and a Scroll of Revivify
 	Simple Armor & Weapons: Market Prices
 	Health Potions: 25 GP for Healing Potion (2d4+2)
 	Horse Rental: 10 GP/Horse for 7 Days
+
+
+![kobolds.png](/img/user/kobolds.png)
+
