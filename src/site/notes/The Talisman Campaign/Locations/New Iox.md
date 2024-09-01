@@ -43,8 +43,9 @@ The Guild Contract #1
 ![Matreous.png](/img/user/The%20Talisman%20Campaign/NPCs/Matreous.png)
 Matreous
 
-![woodgate.png](/img/user/The%20Talisman%20Campaign/Locations/woodgate.png)
+![woodgate_pic.png](/img/user/The%20Talisman%20Campaign/Locations/woodgate_pic.png)
 Woodgate
+![woodgate.png](/img/user/The%20Talisman%20Campaign/Locations/woodgate.png)
 
 Escort Matreous to New Iox 
 Reward: 200 gold and a Scroll of Revivify 
@@ -65,4 +66,11 @@ Reward: 200 gold and a Scroll of Revivify
 
 
 ![kobolds.png](/img/user/kobolds.png)
+
+![northern_fort.png](/img/user/The%20Talisman%20Campaign/Locations/northern_fort.png)
+
+![western_fort.png](/img/user/The%20Talisman%20Campaign/Locations/western_fort.png)
+
+![southern_fort.png](/img/user/The%20Talisman%20Campaign/Locations/southern_fort.png)
+
 
