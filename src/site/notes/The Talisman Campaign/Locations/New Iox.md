@@ -67,6 +67,10 @@ Reward: 200 gold and a Scroll of Revivify
 
 ![kobolds.png](/img/user/kobolds.png)
 
+![The Talisman Campaign/Locations/lizardmen.png](/img/user/The%20Talisman%20Campaign/Locations/lizardmen.png)
+
+
+
 ![northern_fort.png](/img/user/The%20Talisman%20Campaign/Locations/northern_fort.png)
 
 ![western_fort.png](/img/user/The%20Talisman%20Campaign/Locations/western_fort.png)
