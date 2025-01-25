@@ -5,6 +5,8 @@
 ![talisman of ultimate evil.jpeg](/img/user/The%20Talisman%20Campaign/Objects/talisman%20of%20ultimate%20evil.jpeg)
 An infamous Artifact, said to still be within [[The Talisman Campaign/Locations/The Academy\|The Academy]] ruins.
 
+Crafted from an unknown metal, inlaid with steelglass that always resonates with a dim green glow.
+
 It is said to be able to open a rift to the Abyss and draws unfortunate victims into it, never to return.
 
 It has a number of myths and rumors about it, but the confirmed studies of it at the Academy led to the following observations:
