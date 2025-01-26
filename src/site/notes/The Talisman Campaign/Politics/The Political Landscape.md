@@ -6,6 +6,9 @@
 
 [[The Talisman Campaign/History/The Air Nation\|The Air Nation]] once ruled from [[The Talisman Campaign/Locations/The City of Iox\|The City of Iox]] but the city fell from the clouds and was obliterated to ruins. The Air Nation is slowly rebuilding at [[The Talisman Campaign/Locations/New Iox\|New Iox]]. The current Link of Air, Maelzekuth, has been missing since 2550.
 
+[[The Talisman Campaign/NPCs/Organizations/The Rocs\|The Rocs]] are a Thieves Guild operating within New Iox.
+
+
 [[The Water Nation\|The Water Nation]] has two cities, [[Sophtos\|Sophtos]] and [[The Talisman Campaign/Locations/Siyrias\|Siyrias]].
 Douglas Haverstaff was the last link before he was assassinated by Marduc Waterson.
 [[The Link of Water\|The Link of Water]]
