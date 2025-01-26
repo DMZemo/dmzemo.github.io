@@ -6,6 +6,9 @@
 ![Elara Eldercrest.png](/img/user/The%20Talisman%20Campaign/NPCs/Elara%20Eldercrest.png)
 Elara Aldercrest
 
+![captain thorne.png](/img/user/The%20Talisman%20Campaign/NPCs/captain%20thorne.png)
+Protector Captain Thorne
+
 The Aldercrest Family
 
 A lineage that stretches back to the illustrious days of Old Iox, the flying metropolis that once graced the skies with its splendor and magic. The rise of the Aldercrest noble house to power and status in Old Iox can be attributed to their mastery of ancient arts and their deep connection to the mystical forces that permeated the floating city.
