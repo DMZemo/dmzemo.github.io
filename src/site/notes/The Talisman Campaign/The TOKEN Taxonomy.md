@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/the-talisman-campaign/the-token-taxonomy/","noteIcon":""}
 ---
 
-***Top***
+***Type***
 ***Order***
 ***Kind***
 ***Entia***
 ***Nominal***
 
-Tops = {
+Type = {
 	~1 : Entity,
 	~2 : Location,
 	~3 : Object,
